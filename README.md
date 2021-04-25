@@ -2,6 +2,10 @@
 ukelele guitar
 
 
+## 喜欢的歌
+
+- [I got the horses in the back](I got the horses in the back.md)
+
 ## 资源
 
 |类别|歌名|教程|曲谱|
